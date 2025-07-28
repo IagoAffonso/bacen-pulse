@@ -67,8 +67,8 @@ const LandingPage = () => {
         <div className="container-custom relative">
           <div className="max-w-4xl mx-auto text-center text-white">
             <h1 className="text-display mb-6">
-              Inteligência Bancária 
-              <span className="block text-white/90">Profissional para o Brasil</span>
+              Inteligência de Mercado 
+              <span className="block text-white/90">Serviços Financeiros Brasil</span>
             </h1>
             
             <p className="text-subheading text-white/80 mb-8 max-w-3xl mx-auto">
